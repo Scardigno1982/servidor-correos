@@ -45,6 +45,10 @@ Verifica que los contenedores estén ejecutándose correctamente con:
 6. **Configuración DNS con CloudFlare**:  
 Configura los registros DNS en CloudFlare para apuntar a tu servidor.
 
+img/cloudflare.png
+
+![imagen cloudflare](img/cloudflare.png)
+
 7. **Acceso al Servicio**:  
 Accede al servicio de Poste.io a través de los puertos configurados (por defecto: 8181 para HTTP y 4443 para HTTPS).
 
